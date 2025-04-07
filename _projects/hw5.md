@@ -2,7 +2,7 @@
 title: "Bigfoot Sightings Visualization"
 excerpt: "An interactive exploration of Bigfoot sightings across the U.S., using Altair and Vega-Lite."
 collection: projects
-image: /assets/img/map_thumb.png
+image: /assets/pngs/map_thumb.png
 tags:
   - Python
   - HTML
