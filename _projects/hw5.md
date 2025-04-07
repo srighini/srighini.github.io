@@ -18,7 +18,7 @@ This page presents two visualizations created using Python + Altair based on the
 
 ### 📍 Plot 1: Sightings by Location
 
-<iframe src="/assets/plots/map_plot.html" width="700" height="500"></iframe>
+<iframe src="/assets/plots/map_plot.html" width="100%" height="750" style="border:none;"></iframe>
 
 **Description**: This map visualizes the geographic distribution of Bigfoot sightings across the United States. Each circle represents a sighting, with its color showing the classification (Class A, B, or C). Class A sightings are blue, Class B are orange, and Class C are black.
 
