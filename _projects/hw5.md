@@ -8,8 +8,8 @@ custom_js:
   - vega-lite.min
   - vega-embed.min
   - justcharts
+permalink: /projects/hw5
 ---
-
 ## HW5: Bigfoot Sightings Visualization
 
 This page presents two visualizations created using Python + Altair based on the BFRO Bigfoot sightings dataset.
