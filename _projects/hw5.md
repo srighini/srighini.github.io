@@ -1,13 +1,13 @@
 ---
-title: "Bigfoot Sightings Visualization"
-excerpt: "An interactive exploration of Bigfoot sightings across the U.S., using Altair and Vega-Lite."
-collection: projects
-image: /assets/pngs/map_thumb.png
-tags:
-  - Python
-  - HTML
-  - altair
-  - vega-lite
+name: Bigfoot Sightings Visualization
+tools: [Python, HTML, altair, vega-lite]
+image: assets/pngs/map_thumb.png
+description: An interactive exploration of Bigfoot sightings across the U.S., using Altair and Vega-Lite.
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 
 ## HW5: Bigfoot Sightings Visualization
