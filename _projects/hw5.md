@@ -8,7 +8,7 @@ custom_js:
   - vega-lite.min
   - vega-embed.min
   - justcharts
-permalink: /projects/hw5
+permalink: /projects/hw5/index.html
 ---
 ## HW5: Bigfoot Sightings Visualization
 
